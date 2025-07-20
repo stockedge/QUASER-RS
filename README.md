@@ -4,6 +4,11 @@
 
 QUASARは、LLMエージェントのコードアクションに特化したプログラミング言語の実装です。論文「A Fast, Reliable, and Secure Programming Language for LLM Agents with Code Actions」に基づき、Rustで実装されています。
 
+## 📄 論文
+
+- **arXiv**: [arXiv:2506.12202 [cs.PL]](https://arxiv.org/abs/2506.12202)
+- **DOI**: [10.48550/arXiv.2506.12202](https://doi.org/10.48550/arXiv.2506.12202)
+
 ## 🌟 概要
 
 QUASARは以下の特徴を持つプログラミング言語です：
